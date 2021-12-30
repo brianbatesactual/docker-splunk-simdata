@@ -54,7 +54,6 @@ event LogDatabaseQuery {
     source: "database";
     sourcetype: "database";
     optional: {
-        msg: "Query is Done.";
         cpuUsage: 0;
         diskUsage: 0;
         query: "NULL";
