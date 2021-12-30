@@ -6,6 +6,7 @@
 
 * Make
 * Docker
+* Other
 
 ## Usage
 
